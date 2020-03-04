@@ -2,5 +2,5 @@
 
 int  main () {
   printf ( " Merhaba Dünya " );
-  dönüş  0 ;
+  return  0 ;
 }
